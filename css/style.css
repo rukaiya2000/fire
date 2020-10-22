@@ -6161,14 +6161,29 @@ h6 {
   display: block;
 }
 
-/* line 1, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_breadcrumb.scss */
+/* line 1, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_crumb
+crumb.scss */
 .breadcrumb_bg {
   background-image: url("../img/fire9.jpg");
-  background-position: center;
+background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-
+.tool{
+  background-image: url("../img/fire99.jpg");
+}
+.reach{
+  background-image: url("../img/contact.jpg");
+}
+.partner{
+  background-image: url("../img/partner.jpg");
+}
+.about{
+  background-image: url("../img/gal3.jpg");
+}
+.product{
+  background-image: url("../img/product.jpg");
+}
 /* line 5, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_breadcrumb.scss */
 .breadcrumb {
   position: relative;
@@ -6289,7 +6304,7 @@ h6 {
 .footer-area .single-footer-widget p {
   font-size: 14px;
   line-height: 1.8;
-  color: #83868c;
+  color: #cacaca;
 }
 
 /* line 34, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_footer.scss */
@@ -6322,7 +6337,7 @@ h6 {
 
 /* line 50, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_footer.scss */
 .footer-area .single-footer-widget ul li a {
-  color: #83868c;
+  color: #cacaca;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   font-size: 15px;
@@ -6409,7 +6424,7 @@ h6 {
 
 /* line 118, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_footer.scss */
 .footer-area  a{
-  color: rgb(236, 203, 203, 0.6);
+  color: #cacaca;
 }
 
 /* line 120, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_footer.scss */
@@ -6448,7 +6463,12 @@ h6 {
     width: 10%;
   }
 }
-
+.single_service a{
+color: #5c5c5c;
+}
+.single_service a:hover{
+  color: #9D0208;
+  }
 /* line 147, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_footer.scss */
 .footer-area .footer_3 .footer_img .single_footer_img:after {
   position: absolute;
@@ -6649,4 +6669,10 @@ h6 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 color: white;
     font-size: 60px;
+  }
+  @media (min-width: 777px) {
+    .foot {
+      margin-left: 50px;
+    }
+    
   }
