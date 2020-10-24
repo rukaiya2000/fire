@@ -6172,14 +6172,17 @@ background-position: center;
 .tool{
   background-image: url("../img/fire99.jpg");
 }
+.career{
+  background-image: url("../img/Careers-banner.jpg");
+}
 .reach{
-  background-image: url("../img/contact.jpg");
+  background-image: url("../img/contact-us-banner.png");
 }
 .partner{
   background-image: url("../img/partner.jpg");
 }
 .about{
-  background-image: url("../img/gal3.jpg");
+  background-image: url("../img/about-us-banner.jpg");
 }
 .product{
   background-image: url("../img/product.jpg");
