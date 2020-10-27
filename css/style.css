@@ -127,12 +127,12 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 94, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_common.scss */
 p {
-  color: #83868c;
+  
   font-family: "Roboto", sans-serif;
   line-height: 1.929;
   font-size: 14px;
   margin-bottom: 0px;
-  color: #888888;
+  color: #5f5f5f;
 }
 
 /* line 103, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_common.scss */
@@ -6170,7 +6170,7 @@ background-position: center;
   background-size: cover;
 }
 .tool{
-  background-image: url("../img/rabi-banner.png");
+  background-image: url("../img/toool.jpg");
 }
 .career{
   background-image: url("../img/careers-banner\ \(1\).jpg");
@@ -6264,7 +6264,7 @@ background-position: center;
 
 /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_footer.scss */
 .footer-area {
-  background-color: #171718;
+  background-color: #ee1d23;
   padding: 50px 0 0;
 }
 
