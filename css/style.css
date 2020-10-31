@@ -6683,3 +6683,8 @@ color: white;
   .footer-area  p{
 
   }
+  .navbar .navbar-brand img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
